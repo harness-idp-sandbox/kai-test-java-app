@@ -1,0 +1,9 @@
+site_name: 'Documentation Template'
+repo_url: https://github.com/harness-idp-sandbox/kai-test-java-app
+edit_uri: https://github.com/harness-idp-sandbox/kai-test-java-app/blob/main/docs/index.md
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
